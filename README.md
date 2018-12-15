@@ -1,22 +1,5 @@
-# Git Collabotarive
+# Git Collaborative
 
-Use this project to practice your students skills in GIT while developing a porfolio website.
-
-Each student works on a different file, for a different part of the website and the teacher can run the entire website. The Html-Template-Engine library will take care of putting all the pieces together.
-
-## Instructions
-
-1. As a teacher, please create a new repository in github.com and invite your students.
-
-2. Then, clone this repository and change the remote to your new repository
-```sh
-$ git clone git@github.com:breatheco-de/exercise-git-collabration.git
-$ git remote set-url <the new repository>
-```
-3. Push everything to the new respository you have just created.
-```sh
-$ git push origin master
-```
 
 ## Now your students can download your repository and collaborate with you
 
