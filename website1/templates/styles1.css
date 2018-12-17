@@ -1,0 +1,18 @@
+.form-group{
+    background:#BDBDBD;
+    max-width:600px;
+    margin: auto;
+    margin-top: 20px;
+    padding:3px;
+}
+.text{
+    margin:auto;
+}
+label{
+    width:400px;
+}    
+
+p{
+    margin: auto;
+    
+}
