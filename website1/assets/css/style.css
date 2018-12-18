@@ -1,7 +1,7 @@
 body{
 
 }
-form{
+form {
     background:gray;
     width:600px;
     margin: auto;
@@ -18,8 +18,3 @@ p{
     margin: auto;
 
 }
-#Button{
-    display:flex;
-    justify-content:flex end;
-}
-
