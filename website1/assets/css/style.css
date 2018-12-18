@@ -1,3 +1,22 @@
 body{
+
     background: #BDBDBD;
+}
+form{
+    background:gray;
+    width:600px;
+    margin: auto;
+    margin-top: 20px;
+    padding:3px;
+    
+}
+.text{
+    margin:auto;
+}
+   
+
+p{
+    margin: auto;
+
+    
 }
