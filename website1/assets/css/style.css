@@ -2,7 +2,7 @@ body{
 
     background: #BDBDBD;
 }
-form{
+form-group row{
     background:gray;
     width:600px;
     margin: auto;
